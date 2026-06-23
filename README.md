@@ -1,4 +1,4 @@
 # Student-02
-Created login screen UI<br>
-Connected login with Firebase<br>
-Resolved crash on back button
+1. Created login screen UI<br>
+2. Connected login with Firebase<br>
+3. Resolved crash on back button
